@@ -1,1 +1,1 @@
-# NLP_Submissions
+# Gen-AI and NLP Submissions
